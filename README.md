@@ -1,4 +1,4 @@
-# Cloud-resume-challenge
+# Resume on the Cloud
 
 To-do
 1. Add the whole infrastructure diagram
